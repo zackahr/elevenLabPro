@@ -1,0 +1,14 @@
+{
+  "node": {
+    "4988ee0ef4a109d9ed8564a6e3d8d415ebe86940": {
+      "workers": {
+        "app/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fz.ezzine%2FDocuments%2FSCI%2FelevenLabPro%2Fapp%2Factions%2FgetSignedUrl.js%22%2C%5B%22getSignedUrl%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "KH1/FOVpBiSxprlRXWJBNStuCNoUkSYeVnNBo4z+v40="
+}
